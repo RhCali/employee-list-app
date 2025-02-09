@@ -25,6 +25,7 @@ Technologies Used
 • ORM: Entity Framework
 
 Steps to Run
+
 1. Go to database folder and import the EmployeeDB.bacpac in your SQL Server and name it as EmployeeDB. (Import Data-tier Application)
 
 2. Configure connection string in your appsettings.json. 
@@ -35,6 +36,6 @@ Steps to Run
 
 3. Run & Test API in Swagger
 
-• Press F5 to start the project.
+  • Press F5 to start the project.
 
-• Test the API endpoints.
+  • Test the API endpoints.
