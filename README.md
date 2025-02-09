@@ -30,7 +30,7 @@ Steps to Run
 2. Configure connection string in your appsettings.json. 
 
 "ConnectionStrings": {
-  "DefaultConnection": "Server=LAPTOP-IF7ITJBP\\SQLEXPRESS;Database=EmployeeDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  "DefaultConnection": "Server=SERVER_NAME_HERE;Database=EmployeeDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }, //Change the server to you server name
 
 3. Run & Test API in Swagger
