@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qjTzOyRd4s5zQsjYkXFhYT1T6NzwZNOTKxFuy1NgvZQ=",
+  "Source": "EmployeeListAPI",
+  "BasePath": "_content/EmployeeListAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
