@@ -14,15 +14,13 @@ This is a simple Employee List Application that provides functionalities to:
 
 • View all list of employees
 
-The frontend of the application was not completed. However, all backend functionalities were successfully implemented using C# with Entity Framework and stored procedures.
+This backend functionalities were implemented using C#.
 
 Technologies Used
 
 • Backend: C# (.NET Core)
 
 • Database: Microsoft SQL Server (MSSQL)
-
-• ORM: Entity Framework
 
 Steps to Run
 
